@@ -3,12 +3,12 @@
 		<meta charset="utf-8"/>
 			<head>
 				<title>Veneza Restaurante- Venha nos conheçer</title>
-				<link rel="stylesheet" type="text/css" href="coffee.css"/>	
+				<link rel="stylesheet" type="text/css" href="css/coffee.css"/>	
 			</head>
 			<body>
 				<div class="geral"><!--div da página completa-->
 	               <?php include "directives/navView.php"?>
-						<section class="center">
+						<section>
 								<!--Cardápio-->		
 								<h3>Coffee Break</h3>
 									<p>

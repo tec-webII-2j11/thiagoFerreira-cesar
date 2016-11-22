@@ -1,0 +1,18 @@
+.center {
+	color: white;
+	font: normal bold 30px/1.2em Bradley Hand ITC, Verdana, Helvetica;
+	padding: 200px 0 200px 0;
+	border-top: 1px solid #c0c0c0;
+	background-image: url(../images/unidades.png);
+	background-size: 100% 100%;
+}
+.center h3, h2 {
+	text-align: center
+}
+.center p {
+	text-align: center
+}
+table, tr, th, td {
+    border: 1px solid black
+}
+

@@ -3,7 +3,7 @@
     <meta charset="utf-8"/>
         <head>
             <title>Veneza Restaurante- Venha nos conheçer</title>
-            <link rel="stylesheet" type="text/css" href="unidades.css"/>	
+            <link rel="stylesheet" type="text/css" href="css/unidades.css"/>	
         </head>
         <body>
             <div class="geral">

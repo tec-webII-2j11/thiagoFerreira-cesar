@@ -1,0 +1,7 @@
+/*Parte da foto central*/
+.center {
+	height: 800px;
+	border-top: 1px solid #c0c0c0;
+	background-image: url(../images/photo_center.png);
+	background-size: 100% 100%;
+}

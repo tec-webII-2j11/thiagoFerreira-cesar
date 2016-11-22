@@ -1,0 +1,15 @@
+section {
+	color: white;
+	font: normal bold 30px/1.2em Bradley Hand ITC, Verdana, Helvetica;
+	background-image: url(../images/almoco.png);
+	background-position: center;
+	background-size: 100% 100%;
+	padding: 200px 0 200px 0;
+	border-top: 1px solid #c0c0c0;
+}
+section h3 {
+	text-align: center
+}
+section p {
+	text-align: center
+}

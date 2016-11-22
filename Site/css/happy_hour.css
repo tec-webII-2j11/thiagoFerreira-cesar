@@ -1,0 +1,23 @@
+body {
+	background-color: #752723;
+	font-family:Bradley Hand ITC, Verdana, Helvetica;
+	font-size:20px;
+	padding: 0 130px 0 130px;
+	border-top: 15px solid #000000;
+}	
+.logo img{
+	width: 1024px;
+	height: 150px;
+	padding: 0 5% 0 5%; 
+}
+section {
+	color: white;
+	font: normal bold 30px/1.2em Bradley Hand ITC, Verdana, Helvetica;
+	background-image: url(../images/happy_hour.png);
+	background-position: center;
+	padding: 200px 0 200px 0;
+	border-top: 1px solid #c0c0c0;
+}
+section h3, p {
+	text-align: center
+}
