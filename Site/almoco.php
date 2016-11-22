@@ -3,12 +3,12 @@
 		<meta charset="utf-8"/>
 			<head>
 				<title>Veneza Restaurante- Venha nos conheçer</title>
-				<link rel="stylesheet" type="text/css" href="almoco.css"/>	
+				<link rel="stylesheet" type="text/css" href="css/almoco.css"/>	
 			</head>
 			<body>
 				<div class="geral"><!--div da página completa-->
 					<?php include "directives/navView.php"?>
-						<section class="center">
+						<section>
 								<!--Cardápio-->		
 								<h3>Buffet:</h3>
 									<h3>Segunda a Sexta-feira das 12h às 15h</h3>

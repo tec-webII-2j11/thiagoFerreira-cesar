@@ -3,12 +3,12 @@
 		<meta charset="utf-8"/>
 			<head>
 				<title>Veneza Restaurante- Venha nos conheçer</title>
-				<link rel="stylesheet" type="text/css" href="horario.css"/>	
+				<link rel="stylesheet" type="text/css" href="css/horario.css"/>	
 			</head>
 			<body>
 				<div class="geral"><!--div da página completa-->
 					<?php include "directives/navView.php"?>
-						<section class="center">
+						<section>
 								<!--Cardápio-->		
 								<h3>Horários</h3>
 									<label>Nossos horários de funcionamento são:

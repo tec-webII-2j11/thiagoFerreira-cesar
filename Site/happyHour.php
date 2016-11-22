@@ -3,11 +3,12 @@
 		<meta charset="utf-8"/>
 			<head>
 				<title>Veneza Restaurante- Venha nos conheçer</title>
-				<link rel="stylesheet" type="text/css" href="happy_hour.css"/>	
+				<link rel="stylesheet" type="text/css" href="css/happy_hour.css"/>	
 			</head>
 			<body>
 				<div class="geral"><!--div da página completa-->
 					<?php include "directives/navView.php"?>
+						<section>
 								<!--Cardápio-->		
 								<h3>Happy hour</h3>
 									<p>Esfriar a cabeça de vez em quando é essencial para ter mais produtividade,

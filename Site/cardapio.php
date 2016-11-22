@@ -3,12 +3,12 @@
 		<meta charset="utf-8"/>
 			<head>
 				<title>Veneza Restaurante- Venha nos conheçer</title>
-				<link rel="stylesheet" type="text/css" href="cardapio.css"/>	
+				<link rel="stylesheet" type="text/css" href="css/cardapio.css"/>	
 			</head>
 			<body>
 				<div class="geral"><!--div da página completa-->
 					<?php include "directives/navView.php"?>
-						<section class="center">
+						<section>
 								<!--Cardápio-->		
 								<ul class="entradas">
 									<h3>Entradas</h3>

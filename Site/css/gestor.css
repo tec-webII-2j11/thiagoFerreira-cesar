@@ -1,0 +1,29 @@
+section {
+	color: white;
+	font: normal bold 30px/1.2em Bradley Hand ITC, Verdana, Helvetica;
+	padding: 200px 0 200px 0;
+	border-top: 1px solid #c0c0c0;
+	background-image: url(../images/unidades.png);
+	background-size: 100% 100%;
+}
+section h3, h2 {
+	text-align: center
+}
+section p {
+	text-align: center
+}
+
+section  ul li{
+	list-style: none;
+	color: #FFFFFF;
+	font: normal bold 30px/1.2em Bradley Hand ITC, Verdana, Helvetica;
+}
+
+ul {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;  /* Remove o estilo padrao do hyperlink. */
+    color: white;
+}
