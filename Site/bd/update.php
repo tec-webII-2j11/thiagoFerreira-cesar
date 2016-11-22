@@ -19,4 +19,5 @@
     
     mysqli_close($conection);
 
+    header('Location: ../gestor.php');
 ?>

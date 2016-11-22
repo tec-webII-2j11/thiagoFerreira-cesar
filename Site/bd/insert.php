@@ -17,5 +17,7 @@
     }
     
     mysqli_close($conection);
+    
+    header('Location: ../index.php');
 
 ?>
