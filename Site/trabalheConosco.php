@@ -48,11 +48,6 @@
 									<input type="text" name="cellphone" placeholder="9XXXXXXXX" required>
 									</label>
 									<br>
-									<label class="lbl">
-									Email: &nbsp 
-									<input type="text" name"contact" placeholder="Entre com seu email" required>
-									</label>
-									<br>
 									<input type="submit" value="Enviar Cadastro">
 								</form>
 							</center>
